@@ -1,6 +1,7 @@
-Python is one of the general purpose high level language, functional program language, object oriented prog. language, scripting prog. language.
-Application developed with python.
-**In realtime the application to following devloped with Python.**
+_Python is one of the general purpose high level language, functional program language, object oriented prog. language, scripting prog. language._
+
+**Application developed with python.**
+In realtime the application to following devloped with Python.
 1. Dataanalysis & dadta analytics.
 2. Data visualisation(graph).
 3. Network of IOT.
